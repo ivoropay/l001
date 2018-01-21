@@ -1,0 +1,40 @@
+
+div.main {
+  width: 515px;
+  margin: auto;
+  padding: 15px;
+}
+
+.logo {
+  margin: 5px;
+  width:400px;
+}
+
+ul {
+  list-style: disc;
+  margin: 10px;
+}
+
+li {
+  margin: 8px;
+}
+
+p {
+  padding: 10px;
+}
+
+.inside {
+  margin: 25px;
+}
+
+h1 {
+  font-size:36px;
+}
+h2{
+
+}
+hr{
+   color="grey";
+    size="1";
+   width="320";
+}
